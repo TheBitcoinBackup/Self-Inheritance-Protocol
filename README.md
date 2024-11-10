@@ -73,7 +73,7 @@ This protocol helps you create a 3-of-5 multi-signature Bitcoin vault where:
 
 ## 1. Vault Setup
 
-### Video Guides {#vault-setup-videos}
+### Video Guides
 Watch the detailed video guides for this section:
 - [Welcome to the Course](archive.org/link)
 - [The Logic Behind Cold Storage](archive.org/link)
@@ -138,7 +138,7 @@ Owner     --[Passphrase]--> |
 
 ## 2. Hardware Preparation
 
-### Video Guides {#hardware-preparation-videos}
+### Video Guides
 Watch the detailed video guides for this section:
 - [Introduction to Hardware Preparation](archive.org/link)
 - [Hardware Material Requirements](archive.org/link)
@@ -204,7 +204,7 @@ Offline Area (Separate Desk)
 
 ## 3. Software Preparation
 
-### Video Guides {#software-preparation-videos}
+### Video Guides
 Watch the detailed video guides for this section:
 - [Introduction to Software Setup](archive.org/link)
 - [Downloading New OS](archive.org/link)
@@ -254,7 +254,7 @@ Watch the detailed video guides for this section:
 
 ## 4. Keys Generation
 
-### Video Guides {#keys-generation-videos}
+### Video Guides
 Watch the detailed video guides for this section:
 - [Introduction to Key Generation](archive.org/link)
 - [Signing Device vs Hardware Wallet](archive.org/link)
@@ -328,7 +328,7 @@ For each Seed:
 
 ## 5. Backups
 
-### Video Guides {#backups-videos}
+### Video Guides
 Watch the detailed video guides for this section:
 - [Introduction to Backups](archive.org/link)
 - [Paper Backups](archive.org/link)
@@ -401,7 +401,7 @@ For Passphrase (3 copies):
 
 ## 6. Wallet Generation
 
-### Video Guides {#wallet-generation-videos}
+### Video Guides
 Watch the detailed video guides for this section:
 - [Introduction to Wallet Generation](archive.org/link)
 - [Generating the Wallet](archive.org/link)
@@ -456,7 +456,7 @@ For each Signing Key:
 
 ## 7. Transactions
 
-### Video Guides {#transactions-videos}
+### Video Guides
 Watch the detailed video guides for this section:
 - [Introduction to Transactions](archive.org/link)
 - [Receiving Bitcoin](archive.org/link)
@@ -518,7 +518,7 @@ For each signature:
 
 ## 8. Recovery Packages
 
-### Video Guides {#recovery-packages-videos}
+### Video Guides
 Watch the detailed video guides for this section:
 - [Introduction to Recovery Packages](archive.org/link)
 - [Recovery Package Distribution](archive.org/link)
