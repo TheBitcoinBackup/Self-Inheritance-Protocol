@@ -1,124 +1,640 @@
 # Self-Inheritance Protocol
 
-## About
+<p align="center">
+  A protocol for securing Bitcoin inheritance across generations<br>
+  <a href="https://thebitcoinbackup.com">thebitcoinbackup.com</a>
+</p>
+
+## Table of Contents
+- [Overview](#overview)
+  - [Protocol Summary](#protocol-summary)
+  - [Core Principles](#core-principles)
+- [1. Vault Setup](#1-vault-setup)
+  - [Video Guides](#vault-setup-videos)
+  - [Multi-Signature Structure](#multi-signature-structure)
+  - [Role Separation](#role-separation)
+  - [Trust Model](#trust-model)
+  - [Setup Variations](#setup-variations)
+- [2. Hardware Preparation](#2-hardware-preparation)
+  - [Video Guides](#hardware-preparation-videos)
+  - [Required Materials](#required-materials)
+  - [Workspace Organization](#workspace-organization)
+  - [Seedsigner Assembly](#seedsigner-assembly)
+- [3. Software Preparation](#3-software-preparation)
+  - [Video Guides](#software-preparation-videos)
+  - [Operating System](#operating-system)
+  - [Wallet Software](#wallet-software)
+  - [Signing Device Firmware](#signing-device-firmware)
+- [4. Keys Generation](#4-keys-generation)
+  - [Video Guides](#keys-generation-videos)
+  - [Seed Generation](#seed-generation)
+  - [Passphrase Generation](#passphrase-generation)
+  - [Adding Passphrase to Seeds](#adding-passphrase-to-seeds)
+- [5. Backups](#5-backups)
+  - [Video Guides](#backups-videos)
+  - [Paper Backups](#paper-backups)
+  - [Metal Backups](#metal-backups)
+  - [Backup Verification](#backup-verification)
+- [6. Wallet Generation](#6-wallet-generation)
+  - [Video Guides](#wallet-generation-videos)
+  - [Public Key Export](#public-key-export)
+  - [Wallet Creation](#wallet-creation)
+  - [Wallet Descriptor Backup](#wallet-descriptor-backup)
+- [7. Transactions](#7-transactions)
+  - [Video Guides](#transactions-videos)
+  - [Receiving Bitcoin](#receiving-bitcoin)
+  - [Sending Bitcoin](#sending-bitcoin)
+  - [Transaction Signing](#transaction-signing)
+- [8. Recovery Packages](#8-recovery-packages)
+  - [Video Guides](#recovery-packages-videos)
+  - [Package Types](#package-types)
+  - [Assembly Process](#assembly-process)
+  - [Distribution](#distribution)
+- [Security Considerations](#security-considerations)
+- [License](#license)
+
+## Overview
+
+### Protocol Summary
 The Self-Inheritance Protocol is a comprehensive system for creating secure, multi-generational Bitcoin vaults using multi-signature wallets. It enables individuals to establish trustless inheritance systems without relying on third parties.
 
-## Key Features
-- Multi-signature wallet setup (3-of-5)
-- Guardian/Heir separation model
-- Comprehensive backup systems
-- Detailed recovery procedures
-- Hardware security best practices
-- Air-gapped transaction signing
-- Recovery package system
+This protocol helps you create a 3-of-5 multi-signature Bitcoin vault where:
+- 5 Seeds are distributed among 4 guardians and yourself
+- 1 Passphrase is shared between 2 heirs and yourself
+- Only by combining Seeds with the Passphrase can funds be accessed
+- Recovery requires cooperation between guardians and heirs
 
-## Core Principles
+### Core Principles
 1. **Trustless Operation**: No reliance on third parties
-2. **Security First**: Comprehensive security procedures
+2. **Security First**: Air-gapped operations, multiple backups
 3. **Future Proof**: Designed for long-term storage
 4. **Self Sovereign**: Complete control over your Bitcoin
 5. **Verifiable**: All steps include verification procedures
 
-## Getting Started
+## 1. Vault Setup
 
-### Prerequisites
-- Basic understanding of Bitcoin
-- Dedicated workspace
-- Required hardware components
-- 4-8 hours for initial setup
-- Multiple days for complete implementation
+### Video Guides {#vault-setup-videos}
+Watch the detailed video guides for this section:
+- [Welcome to the Course](archive.org/link)
+- [The Logic Behind Cold Storage](archive.org/link)
+- [Single Signature vs Multi Signature](archive.org/link)
+- [Signing Keys - Seeds and Passphrase](archive.org/link)
+- [Vault Setup Overview](archive.org/link)
+- [Recovery Packages Distribution](archive.org/link)
+- [The Right Setup for You](archive.org/link)
 
-### Quick Start
-1. Review the complete protocol documentation
-2. Gather required hardware
-3. Set up secure workspace
-4. Follow section guides in order
-5. Implement verification procedures
-6. Create recovery packages
-7. Distribute to guardians and heirs
+### Multi-Signature Structure
+- **Type**: 3-of-5 multisignature wallet
+- **Keys Required**: Any 3 of 5 signing keys to authorize transactions
+- **Key Composition**: Each signing key combines:
+  - Seed (12-word mnemonic)
+  - Passphrase (additional 12-word mnemonic)
 
-## Protocol Sections
+### Role Separation
 
-### 1. Vault Setup
-- Basic concepts
-- Security model
-- Guardian/Heir structure
-- Risk assessment
+#### Guardians (4 + Owner)
+- Hold individual Seeds
+- Passive, protective role
+- Cannot access funds independently
+- Store and protect recovery packages
+- Do not open packages without owner permission
 
-### 2. Hardware Preparation
-- Workspace setup
-- Component requirements
-- Assembly procedures
-- Verification steps
+#### Heirs (2)
+- Hold copies of the Passphrase
+- Cannot access funds without guardian cooperation
+- Require guardian authorization for recovery
+- Receive complete recovery instructions
 
-### 3. Software Preparation
-- Operating system setup
-- Wallet software installation
-- Firmware preparation
-- Security configuration
+### Trust Model
+```
+Guardian 1 --[Seed 1]--> |
+Guardian 2 --[Seed 2]--> |
+Guardian 3 --[Seed 3]--> |--[3 of 5 Required]-- Vault Access
+Guardian 4 --[Seed 4]--> |
+Owner     --[Seed 5]--> |
 
-### 4. Keys Generation
-- Secure key generation
-- Backup procedures
-- Verification methods
-- Security considerations
+Heir 1    --[Passphrase]--> |
+Heir 2    --[Passphrase]--> |--[Required for each Seed]
+Owner     --[Passphrase]--> |
+```
 
-### 5. Backups
-- Paper backup creation
-- Metal backup procedures
-- Verification methods
-- Storage considerations
+### Setup Variations
 
-### 6. Wallet Generation
-- Multi-signature setup
-- Public key export
-- Wallet configuration
-- Testing procedures
+#### Standard Setup (Recommended)
+- 4 Guardians + Owner (Seeds)
+- 2 Heirs + Owner (Passphrase)
+- 3-of-5 multisignature requirement
 
-### 7. Transactions
-- Receiving procedures
-- Sending procedures
-- Security practices
-- Verification methods
+#### Alternative Configurations
+1. **Minimal Setup**
+   - 2 Guardians + Owner
+   - 1 Heir + Owner
+   - 2-of-3 multisignature
 
-### 8. Recovery Packages
-- Package preparation
-- Distribution procedures
-- Security considerations
-- Verification methods
+2. **Extended Setup**
+   - 4 Guardians + Owner
+   - 3+ Heirs + Owner
+   - 3-of-5 multisignature
+
+## 2. Hardware Preparation
+
+### Video Guides {#hardware-preparation-videos}
+Watch the detailed video guides for this section:
+- [Introduction to Hardware Preparation](archive.org/link)
+- [Hardware Material Requirements](archive.org/link)
+- [Seedsigner Assembly](archive.org/link)
+- [Section Summary](archive.org/link)
+
+### Required Materials
+
+#### Computing Hardware
+- [ ] Dedicated laptop with charger
+- [ ] USB stick for OS installation
+
+#### Signing Devices (3 sets needed)
+- [ ] Seedsigner (assembled or components)
+- [ ] Micro USB cable
+- [ ] Power bank
+- [ ] Micro SD card
+
+#### Metal Backup Materials
+- [ ] Metal washers (150) - M8 x 24mm
+- [ ] Bolts (10) - M8 x 35mm
+- [ ] Nuts (10) - M8
+- [ ] Letter/number stamping set
+- [ ] Hammer
+- [ ] Blockmit jig
+
+#### Paper Backup Materials
+- [ ] Printer
+- [ ] Thermal laminator
+- [ ] A5/6x9 Laminating sheets (300)
+- [ ] A4/8.5x11 Paper sheets (200)
+- [ ] A5/5.5x8.5 Graph paper (20)
+- [ ] Pencils (2)
+- [ ] Black permanent markers (2)
+
+#### Recovery Package Materials
+- [ ] A4/8.5x11 Poly mailers (10)
+- [ ] A5/6x9 Black envelopes (5)
+- [ ] A5/6x9 Red envelopes (3)
+- [ ] A5/6x9 Yellow envelopes (7)
+- [ ] A5/6x9 Green envelopes (7)
+- [ ] A5/6x9 Pink/Violet envelopes (3)
+
+### Workspace Organization
+
+#### Online Area Setup
+```
+Online Area (Main Desk)
+└── For following course and wallet interface
+    ├── Dedicated laptop
+    ├── Course materials
+    └── Printer/laminator (behind laptop)
+```
+
+#### Offline Area Setup
+```
+Offline Area (Separate Desk)
+└── For handling sensitive data
+    ├── Signing device operations
+    ├── Backup creation
+    └── Recovery package assembly
+```
+
+## 3. Software Preparation
+
+### Video Guides {#software-preparation-videos}
+Watch the detailed video guides for this section:
+- [Introduction to Software Setup](archive.org/link)
+- [Downloading New OS](archive.org/link)
+- [Installing New OS](archive.org/link)
+- [Installing Wallet Management Interface](archive.org/link)
+- [Downloading Signing Device Firmware](archive.org/link)
+- [Section Summary](archive.org/link)
+
+### Operating System
+
+#### Download Required Files
+1. Download Ubuntu Desktop ISO
+2. Download Balena Etcher
+3. Prepare USB drive (8GB minimum)
+
+#### Installation Steps
+1. Create bootable USB with Balena Etcher
+2. Boot dedicated laptop from USB
+3. Install Ubuntu:
+   - Choose "Erase disk and install Ubuntu"
+   - Complete basic setup
+   - Keep system offline when possible
+
+### Wallet Software
+
+#### Sparrow Wallet Installation
+1. Download from sparrowwallet.com:
+   - Sparrow Wallet (.deb file)
+   - Manifest file
+   - Manifest signature
+2. Verify download integrity
+3. Install using package manager
+4. Configure for network connection
+
+### Signing Device Firmware
+
+#### Seedsigner Setup
+1. Download from seedsigner.com:
+   - Seedsigner firmware (Pi0 version)
+   - Manifest and signature files
+2. Verify firmware integrity
+3. Flash firmware to SD card
+4. Test device operation:
+   - Insert SD card
+   - Connect power
+   - Verify boot sequence
+
+## 4. Keys Generation
+
+### Video Guides {#keys-generation-videos}
+Watch the detailed video guides for this section:
+- [Introduction to Key Generation](archive.org/link)
+- [Signing Device vs Hardware Wallet](archive.org/link)
+- [Seeds Generation](archive.org/link)
+- [Passphrase Generation](archive.org/link)
+- [Adding Passphrase to Seeds](archive.org/link)
+- [Section Summary](archive.org/link)
+
+### Seed Generation Process
+
+#### Required Materials
+- Seedsigner
+- Casino dice
+- Power bank
+- Temporary paper
+- Permanent marker
+- Graph paper for QR codes
+
+#### Generate Each Seed
+```
+For each of the 5 Seeds:
+
+1. Power on Seedsigner
+2. Select "New Seed"
+3. Input 50 dice rolls
+4. Record temporarily:
+   - Label ("Seed 1", "Seed 2", etc.)
+   - 12 words
+   - Fingerprint without passphrase
+
+5. Verify Seed:
+   - Delete seed from device
+   - Re-enter 12 words
+   - Confirm fingerprint matches
+
+6. Create final backups:
+   - Write on paper stock
+   - Create QR code on graph paper
+   - Mark both with "Seed X"
+```
+
+### Passphrase Generation
+
+#### Generation Steps
+```
+1. Power on Seedsigner
+2. Select "New Seed"
+3. Input 50 dice rolls
+4. Record:
+   - Label as "Passphrase"
+   - 12 words
+5. Create 3 copies on paper stock
+```
+
+### Adding Passphrase to Seeds
+
+#### Combine and Verify
+```
+For each Seed:
+
+1. Scan Seed QR code
+2. Add passphrase
+3. Record on paper backup:
+   - "Fingerprint with passphrase"
+   - New fingerprint value
+4. Clear device
+5. Verify:
+   - Reload Seed and Passphrase
+   - Check fingerprint matches
+```
+
+## 5. Backups
+
+### Video Guides {#backups-videos}
+Watch the detailed video guides for this section:
+- [Introduction to Backups](archive.org/link)
+- [Paper Backups](archive.org/link)
+- [Metal Backups](archive.org/link)
+- [Section Summary](archive.org/link)
+
+### Paper Backups
+
+#### Required Materials
+- Laminating machine
+- Laminating pouches (6x9 or A5 size)
+- Paper copies of:
+  - 5 Seeds (with fingerprints)
+  - 5 Seed QR codes
+  - 3 Passphrase copies
+
+#### Lamination Process
+```
+1. Power on laminator and wait for ready signal
+2. For each backup:
+   - Place in laminating pouch
+   - Feed through laminator
+   - Allow to cool
+   - Trim edges if needed
+
+3. Verify after lamination:
+   - All text is readable
+   - No bubbles or defects
+   - Good seal on all edges
+```
+
+### Metal Backups
+
+#### Required Materials
+- Metal washers (M8 x 24mm)
+- Bolts (M8 x 35mm)
+- Nuts (M8)
+- Letter/number stamping set
+- Hammer
+- Blockmit jig
+
+#### Creation Process
+```
+For Each Seed (5 total):
+1. First washer:
+   - Stamp "SEED X" (where X is 1-5)
+   
+2. Following washers:
+   - Stamp word number (1-12)
+   - Stamp word below number
+   
+3. Assembly:
+   - Thread all washers onto bolt
+   - Secure with nut
+   - Verify all words readable
+
+For Passphrase (3 copies):
+1. First washer:
+   - Stamp "PASSPHRASE"
+   
+2. Following washers:
+   - Stamp word number (1-12)
+   - Stamp word below number
+   
+3. Assembly:
+   - Thread all washers onto bolt
+   - Secure with nut
+   - Verify all words readable
+```
+
+## 6. Wallet Generation
+
+### Video Guides {#wallet-generation-videos}
+Watch the detailed video guides for this section:
+- [Introduction to Wallet Generation](archive.org/link)
+- [Generating the Wallet](archive.org/link)
+- [Wallet Descriptor Backup](archive.org/link)
+- [Section Summary](archive.org/link)
+
+### Public Key Export
+
+#### Required Materials
+- Dedicated laptop with Sparrow
+- Seedsigner
+- Power bank
+- Seed QR codes
+- Passphrase backup
+
+#### Export Process
+```
+For each Signing Key:
+1. Power on Seedsigner
+2. Scan Seed QR code
+3. Verify fingerprint
+4. Add passphrase
+5. Verify fingerprint with passphrase
+6. Export Public Key via QR
+7. Scan into Sparrow
+8. Label as "Seed X + Passphrase"
+9. Clear device
+```
+
+### Wallet Creation
+
+#### In Sparrow Wallet
+1. Create New Wallet
+2. Configure:
+   - Multi-signature
+   - 3-of-5 policy
+   - Native Segwit
+3. Import all 5 public keys
+4. Create wallet
+
+### Wallet Descriptor Backup
+
+#### Create Backups
+```
+1. In Sparrow:
+   - Export Wallet Descriptor
+   - Save as PDF
+2. Print 7 copies in A5
+3. Laminate all copies
+4. Verify QR codes scan correctly
+```
+
+## 7. Transactions
+
+### Video Guides {#transactions-videos}
+Watch the detailed video guides for this section:
+- [Introduction to Transactions](archive.org/link)
+- [Receiving Bitcoin](archive.org/link)
+- [Sending Bitcoin](archive.org/link)
+- [Section Summary](archive.org/link)
+
+### Receiving Bitcoin
+
+#### Generate Address
+```
+In Sparrow:
+1. Select Receive tab
+2. Click "Get Next Address"
+3. Optional but recommended:
+   - Verify address with Seedsigner
+   - Scan address QR
+   - Scan wallet descriptor
+   - Confirm address belongs to wallet
+4. Share address with sender
+```
+
+### Sending Bitcoin
+
+#### Create Transaction
+```
+In Sparrow:
+1. Select Send tab
+2. Enter:
+   - Recipient address
+   - Amount
+   - Fee rate
+3. Create Transaction
+4. Save unsigned transaction (PSBT)
+```
+
+#### Sign Transaction
+Must collect 3 signatures using any 3 of the 5 Seeds:
+```
+For each signature:
+1. Load Signing Key:
+   - Scan Seed QR into Seedsigner
+   - Verify fingerprint
+   - Enter passphrase
+   - Verify fingerprint with passphrase
+
+2. Sign Transaction:
+   - Show transaction QR in Sparrow
+   - Scan with Seedsigner
+   - Review transaction details
+   - Confirm to sign
+   - Scan signed transaction back
+
+3. Clear Seedsigner
+
+4. After 3 signatures:
+   - Click Broadcast
+   - Monitor transaction status
+```
+
+## 8. Recovery Packages
+
+### Video Guides {#recovery-packages-videos}
+Watch the detailed video guides for this section:
+- [Introduction to Recovery Packages](archive.org/link)
+- [Recovery Package Distribution](archive.org/link)
+- [Recovery Instructions](archive.org/link)
+- [Recovery Package Assembly](archive.org/link)
+- [Section Summary](archive.org/link)
+
+### Package Types
+
+#### Guardian Package Contents
+```
+Guardian Package
+├── Black Envelope (Seed)
+│   ├── Paper backup (words + fingerprints)
+│   ├── Metal backup
+│   └── QR code
+├── Orange Envelope (Wallet)
+│   └── Wallet Descriptor
+└── Green Envelope (Instructions)
+    └── Recovery Instructions
+```
+
+#### Heir Package Contents
+```
+Heir Package
+├── Red Envelope (Passphrase)
+│   ├── Paper backup
+│   └── Metal backup
+├── Orange Envelope (Wallet)
+│   └── Wallet Descriptor
+├── Green Envelope (Instructions)
+│   └── Recovery Instructions
+└── Violet Envelope (Device)
+    ├── Signing device
+    ├── SD card
+    └── USB cable
+```
+
+### Assembly Process
+
+#### Prepare Envelopes
+```
+Label each envelope:
+- Black: "Seed 1" through "Seed 5"
+- Red: "Passphrase"
+- Orange: "Wallet Descriptor"
+- Green: "Recovery Instructions"
+- Violet: "Signing Device"
+```
+
+#### Package Assembly
+```
+1. Verify contents match checklists
+2. Insert materials into appropriate envelopes
+3. Seal envelopes
+4. Label outer package:
+   "Property of [OWNER]
+    Protected by [GUARDIAN/HEIR NAME]
+    at [LOCATION]
+    DO NOT OPEN without [OWNER]'s permission
+    If moved, alert [OWNER] immediately"
+```
+
+### Distribution
+
+#### Security Considerations
+```
+For Local Distribution:
+1. Deliver packages personally
+2. Explain basic responsibilities
+3. Verify storage location
+4. Document distribution
+
+For International Distribution:
+1. Consider metal backup creation at destination
+2. Travel with paper backups only
+3. Create metal backups upon arrival
+4. Complete package assembly on-site
+```
 
 ## Security Considerations
-- Never share private keys
-- Always verify backups
-- Test recovery procedures
-- Maintain security awareness
-- Follow all procedures exactly
 
-## Support
-- Review documentation in the `/docs` directory
-- Check verification procedures
-- Test in small increments
-- Verify all backups
+### Critical Security Points
+1. **Workspace Security**
+   - Private, lockable room
+   - Separate online/offline areas
+   - No cameras in offline area
+   - Secure storage when paused
 
-## Contributing
-See CONTRIBUTING.md for guidelines on:
-- Documentation improvements
-- Security analysis
-- Template updates
-- Translations
-- Testing procedures
+2. **Key Generation Security**
+   - Use casino-grade dice only
+   - 50 dice rolls per seed/passphrase
+   - Never digitize seeds or passphrase
+   - Clear devices after each use
+
+3. **Backup Security**
+   - Verify all backups immediately
+   - Test QR codes scan correctly
+   - Confirm fingerprints match
+   - Destroy temporary materials
+
+4. **Distribution Security**
+   - Personal delivery only
+   - No shipping services
+   - Consider airport security with metal backups
+   - Verify recipient understanding
+
+### International Transport Notes
+- Metal backups will raise security concerns at airports
+- Consider creating metal backups at destination
+- Travel with paper backups only when crossing borders
+- Local metal backup creation recommended
 
 ## License
-MIT License - See LICENSE.md for details
-
-## Disclaimer
-This protocol is provided as-is. Users are responsible for:
-- Proper implementation
-- Security procedures
-- Backup verification
-- Recovery testing
-- Fund security
+This protocol is released under the MIT License. See the LICENSE file for details.
 
 ## Author
-The Bitcoin Backup
-www.thebitcoinbackup.com
+[Quentin Ehrenmann -- The Bitcoin Backup]  
+Website: [thebitcoinbackup.com](https://thebitcoinbackup.com)
