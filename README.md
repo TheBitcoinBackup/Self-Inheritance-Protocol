@@ -75,13 +75,13 @@ This protocol helps you create a 3-of-5 multi-signature Bitcoin vault where:
 
 ### Video Guides
 Watch the detailed video guides for this section:
-- [Welcome to the Course](archive.org/link)
-- [The Logic Behind Cold Storage](archive.org/link)
-- [Single Signature vs Multi Signature](archive.org/link)
-- [Signing Keys - Seeds and Passphrase](archive.org/link)
-- [Vault Setup Overview](archive.org/link)
-- [Recovery Packages Distribution](archive.org/link)
-- [The Right Setup for You](archive.org/link)
+- [Welcome to the Course](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+1.mp4)
+- [The Logic Behind Cold Storage](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+2.mp4)
+- [Single Signature vs Multi Signature](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+3.mp4)
+- [Signing Keys - Seeds and Passphrase](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+4.mp4)
+- [Vault Setup Overview](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+5.mp4)
+- [Recovery Packages Distribution](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+6.mp4)
+- [The Right Setup for You](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+7.mp4)
 
 ### Multi-Signature Structure
 - **Type**: 3-of-5 multisignature wallet
@@ -140,10 +140,10 @@ Owner     --[Passphrase]--> |
 
 ### Video Guides
 Watch the detailed video guides for this section:
-- [Introduction to Hardware Preparation](archive.org/link)
-- [Hardware Material Requirements](archive.org/link)
-- [Seedsigner Assembly](archive.org/link)
-- [Section Summary](archive.org/link)
+- [Introduction to Hardware Preparation](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+2+-+Lesson+1.mp4)
+- [Hardware Material Requirements](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+2+-+Lesson+2.mp4)
+- [Seedsigner Assembly](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+2+-+Lesson+4.mp4)
+- [Section Summary](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+2+-+Lesson+5.mp4)
 
 ### Required Materials
 
@@ -206,12 +206,12 @@ Offline Area (Separate Desk)
 
 ### Video Guides
 Watch the detailed video guides for this section:
-- [Introduction to Software Setup](archive.org/link)
-- [Downloading New OS](archive.org/link)
-- [Installing New OS](archive.org/link)
-- [Installing Wallet Management Interface](archive.org/link)
-- [Downloading Signing Device Firmware](archive.org/link)
-- [Section Summary](archive.org/link)
+- [Introduction to Software Setup](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+3+-+Lesson+1.mp4)
+- [Downloading New OS](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+3+-+Lesson+2.mp4)
+- [Installing New OS](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+3+-+Lesson+3.mp4)
+- [Installing Wallet Management Interface](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+3+-+Lesson+4.mp4)
+- [Downloading Signing Device Firmware](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+3+-+Lesson+5.mp4)
+- [Section Summary](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+3+-+Lesson+6.mp4)
 
 ### Operating System
 
@@ -256,12 +256,12 @@ Watch the detailed video guides for this section:
 
 ### Video Guides
 Watch the detailed video guides for this section:
-- [Introduction to Key Generation](archive.org/link)
-- [Signing Device vs Hardware Wallet](archive.org/link)
-- [Seeds Generation](archive.org/link)
-- [Passphrase Generation](archive.org/link)
-- [Adding Passphrase to Seeds](archive.org/link)
-- [Section Summary](archive.org/link)
+- [Introduction to Key Generation](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+1.mp4)
+- [Signing Device vs Hardware Wallet](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+2.mp4)
+- [Seeds Generation](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+3.mp4)
+- [Passphrase Generation](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+4.mp4)
+- [Adding Passphrase to Seeds](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+5.mp4)
+- [Section Summary](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+6.mp4)
 
 ### Seed Generation Process
 
@@ -330,10 +330,10 @@ For each Seed:
 
 ### Video Guides
 Watch the detailed video guides for this section:
-- [Introduction to Backups](archive.org/link)
-- [Paper Backups](archive.org/link)
-- [Metal Backups](archive.org/link)
-- [Section Summary](archive.org/link)
+- [Introduction to Backups](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+5+-+Lesson+1.mp4)
+- [Paper Backups](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+5+-+Lesson+2.mp4)
+- [Metal Backups](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+5+-+Lesson+3.mp4)
+- [Section Summary](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+5+-+Lesson+4.mp4)
 
 ### Paper Backups
 
@@ -403,10 +403,10 @@ For Passphrase (3 copies):
 
 ### Video Guides
 Watch the detailed video guides for this section:
-- [Introduction to Wallet Generation](archive.org/link)
-- [Generating the Wallet](archive.org/link)
-- [Wallet Descriptor Backup](archive.org/link)
-- [Section Summary](archive.org/link)
+- [Introduction to Wallet Generation](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+6+-+Lesson+1.mp4)
+- [Generating the Wallet](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+6+-+Lesson+2.mp4)
+- [Wallet Descriptor Backup](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+6+-+Lesson+3.mp4)
+- [Section Summary](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+6+-+Lesson+4.mp4)
 
 ### Public Key Export
 
@@ -458,10 +458,10 @@ For each Signing Key:
 
 ### Video Guides
 Watch the detailed video guides for this section:
-- [Introduction to Transactions](archive.org/link)
-- [Receiving Bitcoin](archive.org/link)
-- [Sending Bitcoin](archive.org/link)
-- [Section Summary](archive.org/link)
+- [Introduction to Transactions](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+7+-+Lesson+1.mp4)
+- [Receiving Bitcoin](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+7+-+Lesson+2.mp4)
+- [Sending Bitcoin](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+7+-+Lesson+3.mp4)
+- [Section Summary](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+7+-+Lesson+4.mp4)
 
 ### Receiving Bitcoin
 
@@ -520,11 +520,11 @@ For each signature:
 
 ### Video Guides
 Watch the detailed video guides for this section:
-- [Introduction to Recovery Packages](archive.org/link)
-- [Recovery Package Distribution](archive.org/link)
-- [Recovery Instructions](archive.org/link)
-- [Recovery Package Assembly](archive.org/link)
-- [Section Summary](archive.org/link)
+- [Introduction to Recovery Packages](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+8+-+Lesson+1.mp4)
+- [Recovery Package Distribution](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+8+-+Lesson+2.mp4)
+- [Recovery Instructions](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+8+-+Lesson+3.mp4)
+- [Recovery Package Assembly](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+8+-+Lesson+4.mp4)
+- [Section Summary](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+8+-+Lesson+5.mp4)
 
 ### Package Types
 
