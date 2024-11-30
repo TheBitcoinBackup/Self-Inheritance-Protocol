@@ -73,6 +73,8 @@ This protocol helps you create a 3-of-5 multi-signature Bitcoin vault where:
 
 ## 1. Vault Setup
 
+Need help with this step? [Book a consultation](https://thebitcoinbackup.com/services)
+
 ### Video Guides
 Watch the detailed video guides for this section:
 - [Welcome to the Course](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+1.mp4)
@@ -137,6 +139,8 @@ Owner     --[Passphrase]--> |
    - 3-of-5 multisignature
 
 ## 2. Hardware Preparation
+
+Need help with this step? [Book a consultation](https://thebitcoinbackup.com/services)
 
 ### Video Guides
 Watch the detailed video guides for this section:
@@ -204,6 +208,8 @@ Offline Area (Separate Desk)
 
 ## 3. Software Preparation
 
+Need help with this step? [Book a consultation](https://thebitcoinbackup.com/services)
+
 ### Video Guides
 Watch the detailed video guides for this section:
 - [Introduction to Software Setup](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+3+-+Lesson+1.mp4)
@@ -253,6 +259,8 @@ Watch the detailed video guides for this section:
    - Verify boot sequence
 
 ## 4. Keys Generation
+
+Need help with this step? [Book a consultation](https://thebitcoinbackup.com/services)
 
 ### Video Guides
 Watch the detailed video guides for this section:
@@ -328,6 +336,8 @@ For each Seed:
 
 ## 5. Backups
 
+Need help with this step? [Book a consultation](https://thebitcoinbackup.com/services)
+
 ### Video Guides
 Watch the detailed video guides for this section:
 - [Introduction to Backups](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+5+-+Lesson+1.mp4)
@@ -401,6 +411,8 @@ For Passphrase (3 copies):
 
 ## 6. Wallet Generation
 
+Need help with this step? [Book a consultation](https://thebitcoinbackup.com/services)
+
 ### Video Guides
 Watch the detailed video guides for this section:
 - [Introduction to Wallet Generation](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+6+-+Lesson+1.mp4)
@@ -455,6 +467,8 @@ For each Signing Key:
 ```
 
 ## 7. Transactions
+
+Need help with this step? [Book a consultation](https://thebitcoinbackup.com/services)
 
 ### Video Guides
 Watch the detailed video guides for this section:
@@ -517,6 +531,8 @@ For each signature:
 ```
 
 ## 8. Recovery Packages
+
+Need help with this step? [Book a consultation](https://thebitcoinbackup.com/services)
 
 ### Video Guides
 Watch the detailed video guides for this section:
