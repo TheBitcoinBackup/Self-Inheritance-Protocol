@@ -2,8 +2,17 @@
 
 <p align="center">
   A protocol for securing Bitcoin inheritance across generations<br>
+  Created by Quentin Ehrenmann<br>
   <a href="https://thebitcoinbackup.com">thebitcoinbackup.com</a>
 </p>
+
+₿ **Value for Value**  
+If you found this protocol valuable:
+[Support its creator](https://btcpay.btc.aw/api/v1/invoices?storeId=3vSNdjUq4Qs6P9Jxbxoe52kD19XutfroUveZJrUyU7hz&checkoutDesc=Self-Inheritance+Protocol&price=300&currency=USD&defaultPaymentMethod=BTC-CHAIN)
+
+🔒 **Expert Implementation Support**  
+Get personalized guidance implementing this protocol securely.  
+[Book a Consultation](https://thebitcoinbackup.com/services)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -70,14 +79,6 @@ This protocol helps you create a 3-of-5 multi-signature Bitcoin vault where:
 3. **Future Proof**: Designed for long-term storage
 4. **Self Sovereign**: Complete control over your Bitcoin
 5. **Verifiable**: All steps include verification procedures
-
-🔒 **Expert Implementation Support**  
-Get personalized guidance implementing this protocol securely.  
-[Book a Consultation](https://thebitcoinbackup.com/services)
-
-₿ **Value for Value**  
-If you found this protocol valuable, support its creator directly:  
-[Value for Value](https://btcpay.btc.aw/api/v1/invoices?storeId=3vSNdjUq4Qs6P9Jxbxoe52kD19XutfroUveZJrUyU7hz&checkoutDesc=Self-Inheritance+Protocol&price=300&currency=USD&defaultPaymentMethod=BTC-CHAIN)
 
 ## 1. Vault Setup
 
@@ -268,7 +269,7 @@ Watch the detailed video guides for this section:
 
 ## 4. Keys Generation
 
-Need help with this step? [Book a consultation](https://thebitcoinbackup.com/services)
+Need expert guidance for this security-critical step? [Book a consultation](https://thebitcoinbackup.com/services)
 
 ### Video Guides
 Watch the detailed video guides for this section:
@@ -540,7 +541,7 @@ For each signature:
 
 ## 8. Recovery Packages
 
-Need help with this step? [Book a consultation](https://thebitcoinbackup.com/services)
+Want help planning your inheritance structure? [Book a consultation](https://thebitcoinbackup.com/services)
 
 ### Video Guides
 Watch the detailed video guides for this section:
@@ -658,12 +659,3 @@ For International Distribution:
 
 ## License
 This protocol is released under the MIT License. See the LICENSE file for details.
-
-## Author
-Quentin Ehrenmann  
-Creator of the Self-Inheritance Protocol  
-Website: [thebitcoinbackup.com](https://thebitcoinbackup.com)
-
-₿ **Value for Value**  
-If you found this protocol valuable, support its creator directly:  
-[Value for Value](https://btcpay.btc.aw/api/v1/invoices?storeId=3vSNdjUq4Qs6P9Jxbxoe52kD19XutfroUveZJrUyU7hz&checkoutDesc=Self-Inheritance+Protocol&price=300&currency=USD&defaultPaymentMethod=BTC-CHAIN)
