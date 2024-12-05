@@ -660,7 +660,8 @@ For International Distribution:
 This protocol is released under the MIT License. See the LICENSE file for details.
 
 ## Author
-[Quentin Ehrenmann -- The Bitcoin Backup]  
+Quentin Ehrenmann  
+Creator of the Self-Inheritance Protocol  
 Website: [thebitcoinbackup.com](https://thebitcoinbackup.com)
 
 ₿ **Value for Value**  
