@@ -71,6 +71,14 @@ This protocol helps you create a 3-of-5 multi-signature Bitcoin vault where:
 4. **Self Sovereign**: Complete control over your Bitcoin
 5. **Verifiable**: All steps include verification procedures
 
+🔒 **Expert Implementation Support**  
+Get personalized guidance implementing this protocol securely.  
+[Book a Consultation](https://thebitcoinbackup.com/services)
+
+₿ **Value for Value**  
+If you found this protocol valuable, support its creator directly:  
+[Value for Value](https://btcpay.btc.aw/api/v1/invoices?storeId=3vSNdjUq4Qs6P9Jxbxoe52kD19XutfroUveZJrUyU7hz&checkoutDesc=Self-Inheritance+Protocol&price=300&currency=USD&defaultPaymentMethod=BTC-CHAIN)
+
 ## 1. Vault Setup
 
 Need help with this step? [Book a consultation](https://thebitcoinbackup.com/services)
@@ -654,3 +662,7 @@ This protocol is released under the MIT License. See the LICENSE file for detail
 ## Author
 [Quentin Ehrenmann -- The Bitcoin Backup]  
 Website: [thebitcoinbackup.com](https://thebitcoinbackup.com)
+
+₿ **Value for Value**  
+If you found this protocol valuable, support its creator directly:  
+[Value for Value](https://btcpay.btc.aw/api/v1/invoices?storeId=3vSNdjUq4Qs6P9Jxbxoe52kD19XutfroUveZJrUyU7hz&checkoutDesc=Self-Inheritance+Protocol&price=300&currency=USD&defaultPaymentMethod=BTC-CHAIN)
