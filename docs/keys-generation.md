@@ -6,77 +6,78 @@ parent: null
 has_children: false
 ---
 
-## 5. Backups
+## 4. Keys Generation
 
-Need help with this step? [Book a consultation](https://thebitcoinbackup.com/services)
+Need expert guidance for this security-critical step? [Book a consultation](https://thebitcoinbackup.com/services)
 
 ### Video Guides
 Watch the detailed video guides for this section:
-- [Introduction to Backups](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+5+-+Lesson+1.mp4)
-- [Paper Backups](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+5+-+Lesson+2.mp4)
-- [Metal Backups](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+5+-+Lesson+3.mp4)
-- [Section Summary](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+5+-+Lesson+4.mp4)
+- [Introduction to Key Generation](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+1.mp4)
+- [Signing Device vs Hardware Wallet](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+2.mp4)
+- [Seeds Generation](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+3.mp4)
+- [Passphrase Generation](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+4.mp4)
+- [Adding Passphrase to Seeds](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+5.mp4)
+- [Section Summary](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+6.mp4)
 
-### Paper Backups
-
-#### Required Materials
-- Laminating machine
-- Laminating pouches (6x9 or A5 size)
-- Paper copies of:
-  - 5 Seeds (with fingerprints)
-  - 5 Seed QR codes
-  - 3 Passphrase copies
-
-#### Lamination Process
-```
-1. Power on laminator and wait for ready signal
-2. For each backup:
-   - Place in laminating pouch
-   - Feed through laminator
-   - Allow to cool
-   - Trim edges if needed
-
-3. Verify after lamination:
-   - All text is readable
-   - No bubbles or defects
-   - Good seal on all edges
-```
-
-### Metal Backups
+### Seed Generation Process
 
 #### Required Materials
-- Metal washers (M8 x 24mm)
-- Bolts (M8 x 35mm)
-- Nuts (M8)
-- Letter/number stamping set
-- Hammer
-- Blockmit jig
+- Seedsigner
+- Casino dice
+- Power bank
+- Temporary paper
+- Permanent marker
+- Graph paper for QR codes
 
-#### Creation Process
+#### Generate Each Seed
 ```
-For Each Seed (5 total):
-1. First washer:
-   - Stamp "SEED X" (where X is 1-5)
-   
-2. Following washers:
-   - Stamp word number (1-12)
-   - Stamp word below number
-   
-3. Assembly:
-   - Thread all washers onto bolt
-   - Secure with nut
-   - Verify all words readable
+For each of the 5 Seeds:
 
-For Passphrase (3 copies):
-1. First washer:
-   - Stamp "PASSPHRASE"
-   
-2. Following washers:
-   - Stamp word number (1-12)
-   - Stamp word below number
-   
-3. Assembly:
-   - Thread all washers onto bolt
-   - Secure with nut
-   - Verify all words readable
+1. Power on Seedsigner
+2. Select "New Seed"
+3. Input 50 dice rolls
+4. Record temporarily:
+   - Label ("Seed 1", "Seed 2", etc.)
+   - 12 words
+   - Fingerprint without passphrase
+
+5. Verify Seed:
+   - Delete seed from device
+   - Re-enter 12 words
+   - Confirm fingerprint matches
+
+6. Create final backups:
+   - Write on paper stock
+   - Create QR code on graph paper
+   - Mark both with "Seed X"
+```
+
+### Passphrase Generation
+
+#### Generation Steps
+```
+1. Power on Seedsigner
+2. Select "New Seed"
+3. Input 50 dice rolls
+4. Record:
+   - Label as "Passphrase"
+   - 12 words
+5. Create 3 copies on paper stock
+```
+
+### Adding Passphrase to Seeds
+
+#### Combine and Verify
+```
+For each Seed:
+
+1. Scan Seed QR code
+2. Add passphrase
+3. Record on paper backup:
+   - "Fingerprint with passphrase"
+   - New fingerprint value
+4. Clear device
+5. Verify:
+   - Reload Seed and Passphrase
+   - Check fingerprint matches
 ```
