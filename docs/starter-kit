@@ -1,0 +1,38 @@
+---
+layout: default
+title: Starter Kit
+nav_order: 1.5
+parent: null
+has_children: false
+---
+
+# Self-Inheritance Starter Kit
+
+Before diving into the complete protocol, watch these introductory videos to understand the core concepts and requirements.
+
+## Video 1: Introduction to Self-Inheritance
+[Introduction to Self-Inheritance](link-to-video)
+- What is self-inheritance?
+- Why is it important?
+- Protocol overview
+
+## Video 2: Protocol Overview - Vault Setup
+[Protocol Overview - Vault Setup](link-to-video)
+- Multi-signature structure
+- Guardian and heir roles
+- Security model
+
+## Video 3: Protocol Overview - Material List
+[Protocol Overview - Material List](link-to-video)
+- Required hardware
+- Software requirements
+- Documentation needs
+
+## Video 4: Protocol Overview - Adaptation Guide 
+[Protocol Overview - Adaptation Guide](link-to-video)
+- How to adapt the protocol
+- Different setup options
+- Implementation considerations
+
+## Required Documents
+[List relevant documents that go with the starter kit]
