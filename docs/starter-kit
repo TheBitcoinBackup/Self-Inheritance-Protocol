@@ -8,31 +8,31 @@ has_children: false
 
 # Self-Inheritance Starter Kit
 
-Before diving into the complete protocol, watch these introductory videos to understand the core concepts and requirements.
+Get started with these introductory videos that explain the core concepts, requirements, and adaptability of the protocol.
 
 ## Video 1: Introduction to Self-Inheritance
-[Introduction to Self-Inheritance](link-to-video)
-- What is self-inheritance?
-- Why is it important?
-- Protocol overview
+[Watch Video](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Starter+Kit+V1.mp4)
+- Understanding self-inheritance concepts
+- Protocol overview and benefits
+- Security and trust model
 
 ## Video 2: Protocol Overview - Vault Setup
-[Protocol Overview - Vault Setup](link-to-video)
+[Watch Video](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Starter+Kit+V2.mp4)
 - Multi-signature structure
 - Guardian and heir roles
-- Security model
+- Recovery packages distribution
+- [Download Recovery Packages Distribution Diagram](link-to-pdf)
 
 ## Video 3: Protocol Overview - Material List
-[Protocol Overview - Material List](link-to-video)
-- Required hardware
+[Watch Video](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Starter+Kit+V3.mp4)
+- Hardware requirements
 - Software requirements
 - Documentation needs
+- [Download Material Checklist](link-to-pdf)
 
-## Video 4: Protocol Overview - Adaptation Guide 
-[Protocol Overview - Adaptation Guide](link-to-video)
-- How to adapt the protocol
-- Different setup options
+## Video 4: Protocol Overview - Adaptation Guide
+[Watch Video](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Starter+Kit+V4.mp4)
+- Adapting the protocol to your needs
+- Different setup configurations
 - Implementation considerations
-
-## Required Documents
-[List relevant documents that go with the starter kit]
+- [Download Adaptation Guide](link-to-pdf)
