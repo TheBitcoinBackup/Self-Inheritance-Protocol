@@ -49,6 +49,33 @@ Heir Package
     └── USB cable
 ```
 
+### Recovery Instructions (Green Envelope)
+Print, laminate, and include all the following documents in each green "Recovery Instructions" envelope:
+
+1. **Guides for Vault Recovery**
+   - [Guide 1: Regenerating the Vault with the Wallet Descriptor](assets/docs/recovery-instructions/guide-1-regenerating-vault)
+   - [Guide 2: Regenerating the Wallet Descriptor with Public Keys](assets/docs/recovery-instructions/guide-2-regenerating-descriptor)
+   - [Guide 3: Spending from the Vault](assets/docs/recovery-instructions/guide-3-spending)
+
+2. **Package Organization**
+   - [Items Descriptions](assets/docs/recovery-instructions/items-descriptions)
+   - [Recovery Packages Content](assets/docs/recovery-instructions/recovery-packages-content)
+   - [Recovery Packages Distribution](assets/docs/recovery-instructions/recovery-packages-distribution)
+
+3. **Reference Documents**
+   - [Transaction Signing Flowchart](assets/docs/recovery-instructions/transaction-signing-flowchart)
+   - [Vault Description](assets/docs/recovery-instructions/vault-description)
+   - [Wallet Regeneration Flowchart](assets/docs/recovery-instructions/wallet-regeneration-flowchart)
+
+Download all documents for printing:
+- [Complete Recovery Instructions Package (ZIP)](assets/docs/recovery-instructions.zip)
+
+**Important**: 
+- Print all documents on standard paper
+- Laminate each document individually
+- Include a complete set in every green envelope (both Guardian and Heir packages)
+- Verify all documents are readable after lamination
+
 ### Assembly Process
 
 #### Prepare Envelopes
