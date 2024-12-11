@@ -21,7 +21,7 @@ Watch the detailed video guides for this section:
 - [The Right Setup for You](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+7.mp4)
 
 ### Vault Structure
-![Multi-Signature Setup](../assets/images/multi-signature-setup.png)
+![Multi-Signature Setup](/assets/images/multi-signature-setup.png)
 
 ### Multi-Signature Structure
 - **Type**: 3-of-5 multisignature wallet
@@ -77,4 +77,4 @@ Owner     --[Passphrase]--> |
    - 3-of-5 multisignature
 
 Before choosing your setup, use the Adaptation Guide to determine your guardian and heir structure:
-- [Download Adaptation Guide](../assets/docs/starter-kit/adaptation-guide.pdf)
+[Download Adaptation Guide](/assets/docs/starter-kit/adaptation-guide.pdf)
