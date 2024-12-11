@@ -21,6 +21,10 @@ Watch the detailed video guides for this section:
 
 ### Seed Generation Process
 
+![Seed and Passphrase Combination](/Self-Inheritance-Protocol/assets/images/seed-passphrase.png)
+
+This diagram shows how a Seed alone becomes a different Signing Key when combined with a Passphrase.
+
 #### Required Materials
 - Seedsigner
 - Casino dice
@@ -66,6 +70,10 @@ For each of the 5 Seeds:
 ```
 
 ### Adding Passphrase to Seeds
+
+![Wallet Regeneration Flowchart](/Self-Inheritance-Protocol/assets/images/wallet-regeneration-flowchart.png)
+
+This diagram shows how all Seeds combine with the Passphrase to create your Signing Keys.
 
 #### Combine and Verify
 ```
