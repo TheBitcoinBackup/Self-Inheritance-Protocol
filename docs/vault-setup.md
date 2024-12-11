@@ -77,4 +77,4 @@ Owner     --[Passphrase]--> |
    - 3-of-5 multisignature
 
 Before choosing your setup, use the Adaptation Guide to determine your guardian and heir structure:
-[Download Adaptation Guide](/assets/docs/starter-kit/adaptation-guide.pdf)
+[Download Adaptation Guide](/Self-Inheritance-Protocol/assets/docs/starter-kit/adaptation-guide.pdf)
