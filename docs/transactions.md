@@ -47,6 +47,11 @@ In Sparrow:
 ```
 
 #### Sign Transaction
+
+![Transaction Signing Flowchart](/Self-Inheritance-Protocol/assets/docs/recovery-instructions/transaction-signing-flowchart/transaction-signing-flowchart.png)
+
+This diagram shows the complete process of collecting three signatures from different guardians.
+
 Must collect 3 signatures using any 3 of the 5 Seeds:
 ```
 For each signature:
