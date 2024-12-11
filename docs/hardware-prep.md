@@ -55,7 +55,7 @@ Watch the detailed video guides for this section:
 - [ ] A5/6x9 Pink/Violet envelopes (3)
 
 Download and print this checklist before gathering materials:
-- [Download Complete Material Checklist](../assets/docs/starter-kit/material-checklist.pdf)
+[Download Complete Material Checklist](/Self-Inheritance-Protocol/assets/docs/starter-kit/material-checklist.pdf)
 
 ### Workspace Organization
 
