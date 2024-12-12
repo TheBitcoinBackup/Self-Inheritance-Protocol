@@ -6,7 +6,9 @@ url: "https://protocol.thebitcoinbackup.com"
 baseurl: ""
 
 # Theme settings
-color_scheme: light
+color_scheme: bitcoin_backup
+logo: "/assets/images/logo.png"
+footer_content: "Created by The Bitcoin Backup · <a href='https://thebitcoinbackup
 search_enabled: true
 heading_anchors: true
 
