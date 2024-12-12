@@ -29,6 +29,18 @@ This protocol helps you create a 3-of-5 multi-signature Bitcoin vault where:
 - Only by combining Seeds with the Passphrase can funds be accessed
 - Recovery requires cooperation between guardians and heirs
 
+## Who This Protocol Is For
+
+This protocol is designed for Bitcoiners who:
+- Have a family and want to ensure generational wealth transfer
+- Prioritize secure inheritance of their bitcoin holdings
+- Need a solution that doesn't require heirs to be Bitcoin experts
+- Are willing to involve trusted family members as guardians
+- Value self-custody and want to avoid third-party services
+- Seek a robust, time-tested approach to inheritance
+
+The Self-Inheritance Protocol provides a structured way to ensure your bitcoin passes to your heirs while maintaining security through a network of trusted family members acting as guardians.
+
 ## Core Principles
 1. **Trustless Operation**: No reliance on third parties
 2. **Security First**: Air-gapped operations, multiple backups
