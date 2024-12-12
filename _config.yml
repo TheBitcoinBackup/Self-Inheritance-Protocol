@@ -6,9 +6,9 @@ url: "https://protocol.thebitcoinbackup.com"
 baseurl: ""
 
 # Theme settings
+theme: just-the-docs
 color_scheme: bitcoin_backup
 logo: "/assets/images/logo.png"
-footer_content: "Created by The Bitcoin Backup · <a href='https://thebitcoinbackup
 search_enabled: true
 heading_anchors: true
 
@@ -19,4 +19,4 @@ aux_links:
 aux_links_new_tab: true
 
 # Footer content
-footer_content: "Created by Quentin Ehrenmann · <a href='https://thebitcoinbackup.com'>thebitcoinbackup.com</a>"
+footer_content: "Created by The Bitcoin Backup · <a href='https://thebitcoinbackup.com'>thebitcoinbackup.com</a>"
