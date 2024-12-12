@@ -49,6 +49,12 @@ Heir Package
     └── USB cable
 ```
 
+### Package Distribution
+
+![Recovery Packages Distribution](/Self-Inheritance-Protocol/assets/docs/recovery-instructions/recovery-packages-distribution/recovery-packages-distribution.png)
+
+This diagram shows how the recovery packages are distributed among guardians and heirs.
+
 ### Recovery Instructions (Green Envelope)
 Print, laminate, and include all the following documents in each green "Recovery Instructions" envelope:
 
