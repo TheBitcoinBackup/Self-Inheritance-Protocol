@@ -2,7 +2,8 @@ remote_theme: just-the-docs/just-the-docs
 title: Self-Inheritance Protocol
 description: A protocol for securing Bitcoin inheritance across generations
 author: Quentin Ehrenmann
-url: https://thebitcoinbackup.github.io/Self-Inheritance-Protocol
+url: "https://protocol.thebitcoinbackup.com"
+baseurl: ""
 
 # Theme settings
 color_scheme: light
