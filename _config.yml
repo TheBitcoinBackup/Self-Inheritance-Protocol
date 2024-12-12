@@ -5,14 +5,6 @@ author: Quentin Ehrenmann
 url: "https://protocol.thebitcoinbackup.com"
 baseurl: ""
 
-# Theme settings
-theme: just-the-docs
-remote_theme: just-the-docs/just-the-docs@v0.5.3
-color_scheme: bitcoin_backup
-logo: "/assets/images/logo.png"
-search_enabled: true
-heading_anchors: true
-
 # Navigation
 aux_links:
   "View on GitHub":
