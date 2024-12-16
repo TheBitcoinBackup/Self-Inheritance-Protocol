@@ -71,7 +71,7 @@ For each of the 5 Seeds:
 
 ### Adding Passphrase to Seeds
 
-![Wallet Regeneration Flowchart](/Self-Inheritance-Protocol/assets/images/wallet-regeneration-flowchart.png)
+![Wallet Regeneration Flowchart](https://github.com/TheBitcoinBackup/Self-Inheritance-Protocol/blob/main/assets/images/Vault%20Setup.png)
 
 This diagram shows how all Seeds combine with the Passphrase to create your Signing Keys.
 
