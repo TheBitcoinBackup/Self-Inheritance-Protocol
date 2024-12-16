@@ -40,12 +40,6 @@ For each Signing Key:
 9. Clear device
 ```
 
-### Wallet Creation
-
-![Multi-Signature Structure](/Self-Inheritance-Protocol/assets/images/multisig-structure.png)
-
-This diagram shows how the Public Keys combine to create the Multi-Signature Wallet Descriptor.
-
 #### In Sparrow Wallet
 1. Create New Wallet
 2. Configure:
