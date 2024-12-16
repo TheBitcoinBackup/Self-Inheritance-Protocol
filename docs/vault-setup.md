@@ -45,19 +45,6 @@ Watch the detailed video guides for this section:
 - Require guardian authorization for recovery
 - Receive complete recovery instructions
 
-### Trust Model
-```
-Guardian 1 --[Seed 1]--> |
-Guardian 2 --[Seed 2]--> |
-Guardian 3 --[Seed 3]--> |--[3 of 5 Required]-- Vault Access
-Guardian 4 --[Seed 4]--> |
-Owner     --[Seed 5]--> |
-
-Heir 1    --[Passphrase]--> |
-Heir 2    --[Passphrase]--> |--[Required for each Seed]
-Owner     --[Passphrase]--> |
-```
-
 ### Setup Variations
 
 #### Standard Setup (Recommended)
