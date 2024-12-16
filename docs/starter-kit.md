@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Starter Kit
-nav_order: 1.5
+nav_order: 2
 parent: null
 has_children: false
 ---
