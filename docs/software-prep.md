@@ -22,8 +22,8 @@ Watch the detailed video guides for this section:
 ### Operating System
 
 #### Download Required Files
-1. Download Ubuntu Desktop ISO
-2. Download Balena Etcher
+1. Download [Ubuntu Desktop ISO](https://ubuntu.com/download/desktop)
+2. Download [Balena Etcher](https://etcher.balena.io/)
 3. Prepare USB drive (8GB minimum)
 
 #### Installation Steps
@@ -37,7 +37,7 @@ Watch the detailed video guides for this section:
 ### Wallet Software
 
 #### Sparrow Wallet Installation
-1. Download from sparrowwallet.com:
+1. Download from [Sparrow's website](https://sparrowwallet.com/download/):
    - Sparrow Wallet (.deb file)
    - Manifest file
    - Manifest signature
@@ -48,7 +48,7 @@ Watch the detailed video guides for this section:
 ### Signing Device Firmware
 
 #### Seedsigner Setup
-1. Download from seedsigner.com:
+1. Download from [Seedsigner's website](https://seedsigner.com/):
    - Seedsigner firmware (Pi0 version)
    - Manifest and signature files
 2. Verify firmware integrity
