@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wallet Generation
-nav_order: 7
+nav_order: 8
 parent: null
 has_children: false
 ---
