@@ -48,7 +48,7 @@ In Sparrow:
 
 #### Sign Transaction
 
-![Transaction Signing Flowchart](/Self-Inheritance-Protocol/assets/docs/recovery-instructions/transaction-signing-flowchart/transaction-signing-flowchart.png)
+![Transaction Signing Flowchart](https://github.com/TheBitcoinBackup/Self-Inheritance-Protocol/blob/main/assets/docs/recovery-instructions/transaction-signing-flowchart/Transaction%20Signing%20Flowchart.png)
 
 This diagram shows the complete process of collecting three signatures from different guardians.
 
