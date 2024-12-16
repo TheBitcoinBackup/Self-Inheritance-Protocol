@@ -52,7 +52,7 @@ In Sparrow:
 
 This diagram shows the complete process of collecting three signatures from different guardians.
 
-Must collect 3 signatures using any 3 of the 5 Seeds:
+Must collect 3 signatures using any 3 of the 5 Signing Keys:
 ```
 For each signature:
 1. Load Signing Key:
