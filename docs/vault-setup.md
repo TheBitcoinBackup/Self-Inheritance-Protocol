@@ -77,4 +77,4 @@ Owner     --[Passphrase]--> |
    - 3-of-5 multisignature
 
 Before choosing your setup, use the Adaptation Guide to determine your guardian and heir structure:
-[Download Adaptation Guide](/Self-Inheritance-Protocol/blob/main/assets/docs/starter-kit/Adaptation%20Guide%20-%20Self-Inheritance%20Protocol.pdf)
+[Download Adaptation Guide](https://github.com/TheBitcoinBackup/Self-Inheritance-Protocol/blob/main/assets/docs/starter-kit/Adaptation%20Guide%20-%20Self-Inheritance%20Protocol.pdf)
