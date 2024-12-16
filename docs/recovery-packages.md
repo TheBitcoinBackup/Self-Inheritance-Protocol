@@ -51,7 +51,7 @@ Heir Package
 
 ### Package Distribution
 
-![Recovery Packages Distribution](/Self-Inheritance-Protocol/assets/docs/recovery-instructions/recovery-packages-distribution/recovery-packages-distribution.png)
+![Recovery Packages Distribution](https://github.com/TheBitcoinBackup/Self-Inheritance-Protocol/blob/main/assets/docs/recovery-instructions/recovery-packages-distribution/Recovery%20Packages%20Distribution.png)
 
 This diagram shows how the recovery packages are distributed among guardians and heirs.
 
