@@ -21,7 +21,7 @@ Watch the detailed video guides for this section:
 
 ### Seed Generation Process
 
-![Seed and Passphrase Combination](/Self-Inheritance-Protocol/assets/images/seed-passphrase.png)
+![Seed and Passphrase Combination](https://github.com/TheBitcoinBackup/Self-Inheritance-Protocol/blob/main/assets/images/Passphrase-Seed.png)
 
 This diagram shows how a Seed alone becomes a different Signing Key when combined with a Passphrase.
 
