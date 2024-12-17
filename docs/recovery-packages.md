@@ -59,22 +59,22 @@ This diagram shows how the recovery packages are distributed among guardians and
 Print, laminate, and include all the following documents in each green "Recovery Instructions" envelope:
 
 1. **Guides for Vault Recovery**
-   - [Guide 1: Regenerating the Vault with the Wallet Descriptor](assets/docs/recovery-instructions/guide-1-regenerating-vault)
-   - [Guide 2: Regenerating the Wallet Descriptor with Public Keys](assets/docs/recovery-instructions/guide-2-regenerating-descriptor)
-   - [Guide 3: Spending from the Vault](assets/docs/recovery-instructions/guide-3-spending)
+   - [Guide 1: Regenerating the Vault with the Wallet Descriptor](https://github.com/TheBitcoinBackup/Self-Inheritance-Protocol/blob/main/assets/docs/recovery-instructions/guide-1-regenerating-vault-wallet-descriptor/Guide%201%20-%20Regenerating%20the%20Vault%20with%20the%20Wallet%20Descriptor.pdf)
+   - [Guide 2: Regenerating the Wallet Descriptor with Public Keys](https://github.com/TheBitcoinBackup/Self-Inheritance-Protocol/blob/main/assets/docs/recovery-instructions/guide-2-regenerating-wallet-public-keys/Guide%202%20-%20Regenerating%20the%20Wallet%20Descriptor%20with%20the%20Public%20Keys.pdf)
+   - [Guide 3: Spending from the Vault](https://github.com/TheBitcoinBackup/Self-Inheritance-Protocol/blob/main/assets/docs/recovery-instructions/guide-3-spending-from-the-vault/Guide%203%20-%20Spending%20from%20the%20Vault.pdf)
 
 2. **Package Organization**
-   - [Items Descriptions](assets/docs/recovery-instructions/items-descriptions)
-   - [Recovery Packages Content](assets/docs/recovery-instructions/recovery-packages-content)
-   - [Recovery Packages Distribution](assets/docs/recovery-instructions/recovery-packages-distribution)
+   - [Items Descriptions](https://github.com/TheBitcoinBackup/Self-Inheritance-Protocol/tree/main/assets/docs/recovery-instructions/items-descriptions)
+   - [Recovery Packages Content](https://github.com/TheBitcoinBackup/Self-Inheritance-Protocol/tree/main/assets/docs/recovery-instructions/recovery-packages-content)
+   - [Recovery Packages Distribution](https://github.com/TheBitcoinBackup/Self-Inheritance-Protocol/blob/main/assets/docs/recovery-instructions/recovery-packages-distribution/Recovery%20Packages%20Distribution.pdf)
 
 3. **Reference Documents**
-   - [Transaction Signing Flowchart](assets/docs/recovery-instructions/transaction-signing-flowchart)
-   - [Vault Description](assets/docs/recovery-instructions/vault-description)
-   - [Wallet Regeneration Flowchart](assets/docs/recovery-instructions/wallet-regeneration-flowchart)
+   - [Transaction Signing Flowchart](https://github.com/TheBitcoinBackup/Self-Inheritance-Protocol/blob/main/assets/docs/recovery-instructions/transaction-signing-flowchart/Transaction%20Signing%20Flowchart.pdf)
+   - [Vault Description](https://github.com/TheBitcoinBackup/Self-Inheritance-Protocol/blob/main/assets/docs/recovery-instructions/vault-description/Vault%20Description.pdf)
+   - [Wallet Regeneration Flowchart](https://github.com/TheBitcoinBackup/Self-Inheritance-Protocol/blob/main/assets/docs/recovery-instructions/wallet-regeneration-flowchart/Wallet%20Regeneration%20Flowchart.pdf)
 
 Download all documents for printing:
-- [Complete Recovery Instructions Package (ZIP)](assets/docs/recovery-instructions.zip)
+- [Complete Recovery Instructions Package (ZIP)](https://github.com/TheBitcoinBackup/Self-Inheritance-Protocol/tree/main/assets/docs/recovery-instructions)
 
 **Important**: 
 - Print all documents on standard paper
