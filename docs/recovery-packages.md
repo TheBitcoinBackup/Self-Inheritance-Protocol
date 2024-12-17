@@ -124,34 +124,7 @@ For International Distribution:
 4. Complete package assembly on-site
 ```
 
-## Security Considerations
-
-### Critical Security Points
-1. **Workspace Security**
-   - Private, lockable room
-   - Separate online/offline areas
-   - No cameras in offline area
-   - Secure storage when paused
-
-2. **Key Generation Security**
-   - Use casino-grade dice only
-   - 50 dice rolls per seed/passphrase
-   - Never digitize seeds or passphrase
-   - Clear devices after each use
-
-3. **Backup Security**
-   - Verify all backups immediately
-   - Test QR codes scan correctly
-   - Confirm fingerprints match
-   - Destroy temporary materials
-
-4. **Distribution Security**
-   - Personal delivery only
-   - No shipping services
-   - Consider airport security with metal backups
-   - Verify recipient understanding
-
-### International Transport Notes
+#### International Transport Notes
 - Metal backups will raise security concerns at airports
 - Consider creating metal backups at destination
 - Travel with paper backups only when crossing borders
