@@ -47,3 +47,30 @@ The Self-Inheritance Protocol provides a structured way to ensure your bitcoin p
 3. **Future Proof**: Designed for long-term storage
 4. **Self Sovereign**: Complete control over your Bitcoin
 5. **Verifiable**: All steps include verification procedures
+
+## Security Considerations
+
+1. **Workspace Security**
+   - Private, lockable room
+   - Separate online/offline areas
+   - No cameras in offline area
+   - Secure storage when paused
+
+2. **Key Generation Security**
+   - Use casino-grade dice only
+   - 50 dice rolls per seed/passphrase
+   - Never digitize seeds or passphrase
+   - Clear devices after each use
+
+3. **Backup Security**
+   - Verify all backups immediately
+   - Test QR codes scan correctly
+   - Confirm fingerprints match
+   - Destroy temporary materials
+
+4. **Distribution Security**
+   - Personal delivery only
+   - No shipping services
+   - Consider airport security with metal backups
+   - Verify recipient understanding
+
