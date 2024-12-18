@@ -8,7 +8,7 @@ has_children: false
 
 ## 6. Wallet Generation
 
-Need help with this step? [Book a consultation](https://thebitcoinbackup.com/services)
+Need help with this step? [Book a free consultation](https://thebitcoinbackup.com)
 
 ### Video Guides
 Watch the detailed video guides for this section:
