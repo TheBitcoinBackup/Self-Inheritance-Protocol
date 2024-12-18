@@ -18,7 +18,7 @@ If you found this protocol valuable:
 
 🔒 **Expert Implementation Support**  
 Get personalized guidance implementing this protocol securely.  
-[Book a Consultation](https://thebitcoinbackup.com/services)
+[Book a free consultation](https://thebitcoinbackup.com)
 
 ## Protocol Summary
 The Self-Inheritance Protocol is a comprehensive system for creating secure, multi-generational Bitcoin vaults using multi-signature wallets. It enables individuals to establish trustless inheritance systems without relying on third parties.
