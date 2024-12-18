@@ -8,7 +8,7 @@ has_children: false
 
 ## 4. Keys Generation
 
-Need expert guidance for this security-critical step? [Book a consultation](https://thebitcoinbackup.com/services)
+Need expert guidance for this security-critical step? [Book a free consultation](https://thebitcoinbackup.com)
 
 ### Video Guides
 Watch the detailed video guides for this section:
