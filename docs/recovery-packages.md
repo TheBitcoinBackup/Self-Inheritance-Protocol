@@ -8,7 +8,7 @@ has_children: false
 
 ## 8. Recovery Packages
 
-Want help planning your inheritance structure? [Book a consultation](https://thebitcoinbackup.com/services)
+Want help planning your inheritance structure? [Book a free consultation](https://thebitcoinbackup.com)
 
 ### Video Guides
 Watch the detailed video guides for this section:
