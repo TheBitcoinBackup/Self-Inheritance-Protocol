@@ -10,7 +10,7 @@ has_children: false
 
 Need help with this step? [Book a free consultation](https://thebitcoinbackup.com)
 
-## Video Guides
+### Video Guides
 Follow along with the complete video series on either:
 - [YouTube](https://www.youtube.com/watch?v=QSkuBn9uqHc&list=PL3s9juCCLq05UbdxikNPa8hOmddvS2BPa&index=5)
 - [Internet Archive](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+1.mp4)
