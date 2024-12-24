@@ -11,13 +11,9 @@ has_children: false
 Need expert guidance for this security-critical step? [Book a free consultation](https://thebitcoinbackup.com)
 
 ### Video Guides
-Watch the detailed video guides for this section:
-- [Introduction to Key Generation](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+1.mp4)
-- [Signing Device vs Hardware Wallet](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+2.mp4)
-- [Seeds Generation](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+3.mp4)
-- [Passphrase Generation](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+4.mp4)
-- [Adding Passphrase to Seeds](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+5.mp4)
-- [Section Summary](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+6.mp4)
+Follow along with the complete video series on either:
+- [YouTube](https://www.youtube.com/watch?v=buji9H42VFc&list=PL3s9juCCLq05UbdxikNPa8hOmddvS2BPa&index=22)
+- [Internet Archive](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+4+-+Lesson+1.mp4)
 
 ### Seed Generation Process
 
