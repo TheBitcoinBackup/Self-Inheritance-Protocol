@@ -11,13 +11,9 @@ has_children: false
 Need help with this step? [Book a free consultation](https://thebitcoinbackup.com)
 
 ### Video Guides
-Watch the detailed video guides for this section:
-- [Introduction to Software Setup](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+3+-+Lesson+1.mp4)
-- [Downloading New OS](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+3+-+Lesson+2.mp4)
-- [Installing New OS](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+3+-+Lesson+3.mp4)
-- [Installing Wallet Management Interface](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+3+-+Lesson+4.mp4)
-- [Downloading Signing Device Firmware](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+3+-+Lesson+5.mp4)
-- [Section Summary](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+3+-+Lesson+6.mp4)
+Follow along with the complete video series on either:
+- [YouTube](https://www.youtube.com/watch?v=38OY0qI8mc0&list=PL3s9juCCLq05UbdxikNPa8hOmddvS2BPa&index=16)
+- [Internet Archive](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+3+-+Lesson+1.mp4)
 
 ### Operating System
 
