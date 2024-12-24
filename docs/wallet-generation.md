@@ -11,11 +11,9 @@ has_children: false
 Need help with this step? [Book a free consultation](https://thebitcoinbackup.com)
 
 ### Video Guides
-Watch the detailed video guides for this section:
-- [Introduction to Wallet Generation](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+6+-+Lesson+1.mp4)
-- [Generating the Wallet](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+6+-+Lesson+2.mp4)
-- [Wallet Descriptor Backup](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+6+-+Lesson+3.mp4)
-- [Section Summary](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+6+-+Lesson+4.mp4)
+Follow along with the complete video series on either:
+- [YouTube](https://www.youtube.com/watch?v=U-hjOxzg-Ek&list=PL3s9juCCLq05UbdxikNPa8hOmddvS2BPa&index=32)
+- [Internet Archive](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+6+-+Lesson+1.mp4)
 
 ### Public Key Export
 
