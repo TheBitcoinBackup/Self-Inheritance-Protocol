@@ -10,15 +10,10 @@ has_children: false
 
 Need help with this step? [Book a free consultation](https://thebitcoinbackup.com)
 
-### Video Guides
-Watch the detailed video guides for this section:
-- [Welcome to the Course](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+1.mp4)
-- [The Logic Behind Cold Storage](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+2.mp4)
-- [Single Signature vs Multi Signature](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+3.mp4)
-- [Signing Keys - Seeds and Passphrase](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+4.mp4)
-- [Vault Setup Overview](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+5.mp4)
-- [Recovery Packages Distribution](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+6.mp4)
-- [The Right Setup for You](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+7.mp4)
+## Video Guides
+Follow along with the complete video series on either:
+- [YouTube](https://www.youtube.com/watch?v=QSkuBn9uqHc&list=PL3s9juCCLq05UbdxikNPa8hOmddvS2BPa&index=5)
+- [Internet Archive](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+1+-+Lesson+1.mp4)
 
 ### Vault Structure
 ![Multi-Signature Setup](/assets/images/Vault%20Setup.png)
