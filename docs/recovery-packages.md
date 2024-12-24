@@ -11,12 +11,9 @@ has_children: false
 Want help planning your inheritance structure? [Book a free consultation](https://thebitcoinbackup.com)
 
 ### Video Guides
-Watch the detailed video guides for this section:
-- [Introduction to Recovery Packages](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+8+-+Lesson+1.mp4)
-- [Recovery Package Distribution](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+8+-+Lesson+2.mp4)
-- [Recovery Instructions](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+8+-+Lesson+3.mp4)
-- [Recovery Package Assembly](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+8+-+Lesson+4.mp4)
-- [Section Summary](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+8+-+Lesson+5.mp4)
+Follow along with the complete video series on either:
+- [YouTube](https://www.youtube.com/watch?v=2OLTwDM7Y3s&list=PL3s9juCCLq05UbdxikNPa8hOmddvS2BPa&index=40)
+- [Internet Archive](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+8+-+Lesson+1.mp4)
 
 ### Package Types
 
