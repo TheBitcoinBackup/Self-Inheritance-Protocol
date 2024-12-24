@@ -11,11 +11,9 @@ has_children: false
 Need help with this step? [Book a free consultation](https://thebitcoinbackup.com)
 
 ### Video Guides
-Watch the detailed video guides for this section:
-- [Introduction to Backups](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+5+-+Lesson+1.mp4)
-- [Paper Backups](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+5+-+Lesson+2.mp4)
-- [Metal Backups](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+5+-+Lesson+3.mp4)
-- [Section Summary](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+5+-+Lesson+4.mp4)
+Follow along with the complete video series on either:
+- [YouTube](https://www.youtube.com/watch?v=ojGj0ZQyYAw&list=PL3s9juCCLq05UbdxikNPa8hOmddvS2BPa&index=28)
+- [Internet Archive](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+5+-+Lesson+1.mp4)
 
 ### Paper Backups
 
