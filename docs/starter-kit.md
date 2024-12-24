@@ -11,7 +11,7 @@ has_children: false
 Get started with these introductory videos that explain the core concepts, requirements, and adaptability of the protocol.
 
 ## Video 1: Introduction to Self-Inheritance
-Watch Video: [YouTube](yhttps://www.youtube.com/watch?v=ePdQCFHtxFs&list=PL3s9juCCLq05UbdxikNPa8hOmddvS2BPa&index=1) | [Archive.org](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Starter+Kit+V1.mp4)
+Watch Video: [YouTube](https://www.youtube.com/watch?v=ePdQCFHtxFs&list=PL3s9juCCLq05UbdxikNPa8hOmddvS2BPa&index=1) | [Archive.org](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Starter+Kit+V1.mp4)
 - Understanding self-inheritance concepts
 - Protocol overview and benefits
 - Security and trust model
