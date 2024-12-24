@@ -23,8 +23,8 @@ Get personalized guidance implementing this protocol securely.
 ## Video Guides
 
 Follow along with the complete video series on either:
-- [YouTube](https://www.youtube.com/watch?v=ePdQCFHtxFs&list=PL3s9juCCLq05UbdxikNPa8hOmddvS2BPa)
-- [Internet Archive](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Starter+Kit+V1.mp4)
+- [YouTube](https://www.youtube.com/playlist?list=PL3s9juCCLq05UbdxikNPa8hOmddvS2BPa)
+- [Internet Archive](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/)
 
 ## Protocol Summary
 
