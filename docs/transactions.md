@@ -10,12 +10,11 @@ has_children: false
 
 Need help with this step? [Book a free consultation](https://thebitcoinbackup.com)
 
+
 ### Video Guides
-Watch the detailed video guides for this section:
-- [Introduction to Transactions](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+7+-+Lesson+1.mp4)
-- [Receiving Bitcoin](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+7+-+Lesson+2.mp4)
-- [Sending Bitcoin](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+7+-+Lesson+3.mp4)
-- [Section Summary](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+7+-+Lesson+4.mp4)
+Follow along with the complete video series on either:
+- [YouTube](https://www.youtube.com/watch?v=uAXbiW62MF8&list=PL3s9juCCLq05UbdxikNPa8hOmddvS2BPa&index=36)
+- [Internet Archive](https://archive.org/details/the-bitcoin-backup-self-inheritance-protocol/Section+7+-+Lesson+1.mp4)
 
 ### Receiving Bitcoin
 
